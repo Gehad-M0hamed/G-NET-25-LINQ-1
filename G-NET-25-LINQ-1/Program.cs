@@ -20,6 +20,14 @@
             //}
             #endregion
 
+            #region Q3:
+            //var sortedProducts = ProductList.OrderBy(p => p.UnitPrice);
+            //foreach (var product in sortedProducts)
+            //{
+            //    Console.WriteLine($"Product: {product.ProductName}, Price: {product.UnitPrice:C}");
+            //}
+            #endregion
+
 
 
         }
