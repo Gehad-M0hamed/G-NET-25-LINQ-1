@@ -37,6 +37,15 @@
             //}
             #endregion
 
+            #region Q5:
+            //var inStockCondiments = ProductList.Where(p => p.UnitsInStock > 0 && p.Category == "Condiments");
+
+            //foreach (var product in inStockCondiments)
+            //{
+            //    Console.WriteLine($"Product: {product.ProductName}, Category: {product.Category}, In Stock: {product.UnitsInStock}");
+            //}
+            #endregion
+
 
 
         }
