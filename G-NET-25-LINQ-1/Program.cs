@@ -12,6 +12,13 @@
             //}
             #endregion
 
+            #region Q2:
+            //var productNames = ProductList.Select(p => p.productName);
+            //foreach (var name in productNames)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            #endregion
 
 
 
