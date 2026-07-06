@@ -28,6 +28,15 @@
             //}
             #endregion
 
+            #region Q4:
+            //var filteredProducts = ProductList.Where(p => p.UnitPrice >= 10 && p.UnitPrice <= 30);
+
+            //foreach (var product in filteredProducts)
+            //{
+            //    Console.WriteLine($"Product: {product.ProductName}, Price: {product.UnitPrice:C}");
+            //}
+            #endregion
+
 
 
         }
