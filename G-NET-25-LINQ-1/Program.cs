@@ -79,6 +79,18 @@
             //}
             #endregion
 
+            #region Q9:
+            //var sortedBeverages = ProductList
+            //    .Where(p => p.Category == "Beverages")
+            //    .OrderByDescending(p => p.UnitsInStock);
+
+            //foreach (var product in sortedBeverages)
+            //{
+            //    Console.WriteLine($"Product Name: {product.ProductName} | Units In Stock: {product.UnitsInStock}");
+            //}
+            #endregion
+
+
         }
     }
 }
