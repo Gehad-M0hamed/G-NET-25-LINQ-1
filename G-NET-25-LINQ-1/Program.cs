@@ -68,6 +68,16 @@
             //}
             #endregion
 
+            #region Q8:
+            //var sortedProducts = ProductList
+            //    .OrderBy(p => p.Category)
+            //    .ThenByDescending(p => p.UnitPrice);
+
+            //foreach (var product in sortedProducts)
+            //{
+            //    Console.WriteLine($"Category: {product.Category} | Product: {product.ProductName} | Price: {product.UnitPrice:C}");
+            //}
+            #endregion
 
         }
     }
