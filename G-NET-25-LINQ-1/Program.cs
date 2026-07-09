@@ -90,6 +90,22 @@
             //}
             #endregion
 
+            #region Q10:
+            //var ordersQuery = from customer in CustomerList
+            //                  from order in customer.Orders  
+            //                  where order.OrderDate.Year >= 1997
+            //                  select new
+            //                  {
+            //                      customer.CustomerID,
+            //                      order.OrderDate
+            //                  };
+
+            //foreach (var orderInfo in ordersQuery)
+            //{
+            //    Console.WriteLine($"Customer ID: {orderInfo.CustomerID} | Order Date: {orderInfo.OrderDate:yyyy-MM-dd}");
+            //}
+            #endregion
+
 
         }
     }
