@@ -129,6 +129,21 @@
             //}
             #endregion
 
+            #region Q13:
+
+            //string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            //var result = digits
+            //    .Where(word => word.Length > 1 && word[1] == 'i') // يختار الكلمات التي حرفها الثاني 'i' (مثل five, six, nine)
+            //    .Reverse()                                        // يعكس الترتيب الأصلي
+            //    .Select((word, index) => $"{index + 1}. {word}"); // يضيف رقم الترتيب بجانب الكلمة (فكرة السؤال السابع)
+
+            //foreach (var digitFormat in result)
+            //{
+            //    Console.WriteLine(digitFormat);
+            //}
+            #endregion
+
 
         }
     }
