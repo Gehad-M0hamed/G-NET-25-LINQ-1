@@ -106,6 +106,15 @@
             //}
             #endregion
 
+            #region Q11:
+            //var numberedProducts = ProductList.Select((p, index) => $"{index + 1}. {p.ProductName}");
+
+            //foreach (var productFormat in numberedProducts)
+            //{
+            //    Console.WriteLine(productFormat);
+            //}
+            #endregion
+
 
         }
     }
