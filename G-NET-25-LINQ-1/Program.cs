@@ -115,6 +115,20 @@
             //}
             #endregion
 
+            #region Q12:
+            //string[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRry" };
+
+            //var numberedSortedWords = Arr
+            //    .OrderBy(word => word.Length)
+            //    .ThenBy(word => word, StringComparer.OrdinalIgnoreCase)
+            //    .Select((word, index) => $"{index + 1}. {word}"); // ← هنا أضفنا فكرة السؤال السابع
+
+            //foreach (var wordFormat in numberedSortedWords)
+            //{
+            //    Console.WriteLine(wordFormat);
+            //}
+            #endregion
+
 
         }
     }
